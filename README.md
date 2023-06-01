@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Alvaro Sebastian Tabares Gaviria</h1>
-<h3 align="center">Actualmente soy un desarrollador DevOps al que le encanta aprender cada día cosas nuevas sobre este bello mundo</h3>
+<h3 align="center">Actualmente soy un desarrollador Fullstack al que le encanta aprender cada día cosas nuevas sobre este bello mundo</h3>
 
 - 🌱 Actualmente me encuentro aprendiendo **React, React Native, Flutter**
 
