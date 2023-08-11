@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente me encuentro aprendiendo **React, React Native, Flutter**
 
-- 💬 Pregúntame sobre **Angular, Springboot, python y un largo etc**
+- 💬 Pregúntame sobre **React Native, Springboot, Flutter y un largo etc**
 
 - 📫 Cómo encontrarme **astabaresg@gmail.com**
 
